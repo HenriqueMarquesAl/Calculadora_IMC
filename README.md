@@ -28,3 +28,17 @@ Aplicativo em React Native para cálculo do IMC (Índice de Massa Corporal), inc
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+2. Navegue até o diretório do projeto:
+   cd nome-do-repositorio
+
+3. Instale as dependências:
+   npm install
+   
+4. Inicie o aplicativo:
+   npm start
+
+Ou, se estiver usando o Expo:
+   expo start
+
+   
